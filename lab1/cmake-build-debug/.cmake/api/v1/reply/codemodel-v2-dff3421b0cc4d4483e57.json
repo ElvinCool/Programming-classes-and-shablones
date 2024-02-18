@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "mymath",
+					"jsonFile" : "directory-mymath-Debug-ab43b732ed9f7540c178.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "mymath",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "minus",
+					"jsonFile" : "directory-minus-Debug-268fe4b0bc35bf7d35d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "minus",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "mymath",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "minus",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1-Debug-9dc7c0ae1dc7e7712cd8.json",
+					"name" : "lab1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "minus::@3698662bbb617da75089",
+					"jsonFile" : "target-minus-Debug-f7a61c5ea63e3552115a.json",
+					"name" : "minus",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mymath::@606efe13a5ded610172a",
+					"jsonFile" : "target-mymath-Debug-a07c24c1a8f963799750.json",
+					"name" : "mymath",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug",
+		"source" : "/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

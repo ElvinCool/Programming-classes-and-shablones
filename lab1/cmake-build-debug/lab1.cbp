@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\mymath\;CMake Files\minus\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab1">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/lab1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab1/fast">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/lab1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mymath">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/libmymath.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 mymath"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mymath/fast">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/libmymath.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 mymath/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minus">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/libminus.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 minus"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minus/fast">
+				<Option output="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/libminus.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath"/>
+					<Add directory="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 minus/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/main.cpp">
+			<Option target="lab1"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus/minus.cpp">
+			<Option target="minus"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus/minus.h">
+			<Option target="minus"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath/mymath.cpp">
+			<Option target="mymath"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath/mymath.h">
+			<Option target="mymath"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/mymath/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\mymath\"/>
+		</Unit>
+		<Unit filename="/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/minus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\minus\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

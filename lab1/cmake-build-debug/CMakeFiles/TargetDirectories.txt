@@ -1,0 +1,9 @@
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/CMakeFiles/mymath.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/CMakeFiles/edit_cache.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/mymath/CMakeFiles/rebuild_cache.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/CMakeFiles/minus.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/CMakeFiles/edit_cache.dir
+/Users/ermmakoov/CLionProjects/Programming-classes-and-shablones/lab1/cmake-build-debug/minus/CMakeFiles/rebuild_cache.dir
